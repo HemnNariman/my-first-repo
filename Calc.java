@@ -9,7 +9,7 @@ public class Calc {
     System.out.println("Enter first number: ");
 
     double num1 = Calc.nextDouble();
-
+    
     System.out.println("Enter one of these operators (+,-,/,*,%)");
 
     char op = Calc.next().charAt(0);
