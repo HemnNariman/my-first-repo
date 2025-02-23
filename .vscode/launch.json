@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "compoundInterestCalculator",
+      "request": "launch",
+      "mainClass": "compoundInterestCalculator",
+      "projectName": "my-first-repo_712ddeb9"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
