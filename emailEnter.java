@@ -17,7 +17,7 @@ public class emailEnter {
       System.out.println("your domain is: " + email.substring(email.indexOf("@") + 1));
 
     } else {
-      System.out.println("Invalid email. Please enter a valid email with exactly one '@' and a valid domain.");
+      System.out.println("Invalid email. Please enter a valid email with '@'.");
     }
 
     scanner.close();
